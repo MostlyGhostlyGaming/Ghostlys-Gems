@@ -75,3 +75,32 @@ Rapid Fire Explosive Bow (Explodes On Contact. Does Not Work For Players)
 ### New Music Discs:
 (ALL MUSIC GOES TO THERE RESPECTIVE OWNERS)
 
+ImSomeoneElse - SomethingElseYT
+
+Good Person - TheOdd1sOut - Ft Roomie
+
+Lyin' 2 Me - CG5
+
+So Suspicous - OR3O
+
+I See A Dreamer - CG5
+
+Good To Be Alive - CG5
+
+Ive Been Whippin - Nutshell Animations
+
+No Mercy - The Living Tombstone
+
+Bet Hurts - Kyle Exum
+
+
+### New Potions:
+
+Bunny Potion (Speed 10; 3min, Jump Boost; 3min, Regeneration; 3min)
+
+Super Speed (Speed 10; 3min)
+
+### New Block Types:
+
+Blue Oak
+
