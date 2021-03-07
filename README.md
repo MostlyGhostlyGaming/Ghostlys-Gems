@@ -104,3 +104,6 @@ Super Speed (Speed 10; 3min)
 
 Blue Oak
 
+### New Crafts
+
+Bedrock
